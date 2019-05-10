@@ -1,0 +1,69 @@
+[
+	{
+		"id": "0",
+		"name": "Tracy Mcgrady",
+		"point": "62",
+		"rebound": "17"
+		},
+	{
+		"id": "1",
+		"name": "Kobe Byrant",
+		"point": "81",
+		"rebound": "16"
+		},
+		{
+		"id": "2",
+		"name": "Jame Harden",
+		"point": "61",
+		"rebound": "17"
+		},
+		{
+		"id": "3",
+		"name": "Yao Ming",
+		"point": "41",
+		"rebound": "22"
+		},
+		{
+		"id": "4",
+		"name": "LeBron James",
+		"point": "61",
+		"rebound": "19"
+		},
+		{
+		"id": "5",
+		"name": "Michael Jordan",
+		"point": "69",
+		"rebound": "18"
+		},
+		{
+		"id": "6",
+		"name": "Chris Paul",
+		"point": "43",
+		"rebound": "13"
+		},
+		{
+		"id": "7",
+		"name": "Tim Ducan",
+		"point": "53",
+		"rebound": "27"
+		},
+		{
+		"id": "8",
+		"name": "Allen Iverson",
+		"point": "60",
+		"rebound": "11"
+		},
+		{
+		"id": "9",
+		"name": "Steven Curry",
+		"point": "44",
+		"rebound": "15"
+		},
+		{
+		"id": "10",
+		"name": "Kevin Durant",
+		"point": "50",
+		"rebound": "19"
+		}
+		
+]
